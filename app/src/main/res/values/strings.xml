@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationChannelWork</string>
+    <string name="message">message</string>
+    <string name="large_text">
+        Microsoft Quantum Team in collaboration with Codeforces are excited to invite you to participate in the third Microsoft Q# Coding Contest! It will consist of two parts: the warmup round, starting on June 12th, and the main round, starting on June 19th. 50 winners of the main round will receive a T-shirt, as well as 25 random participants in each of the warmup and the main rounds.
+    </string>
+</resources>
